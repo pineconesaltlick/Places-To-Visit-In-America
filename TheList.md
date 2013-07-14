@@ -56,6 +56,7 @@ Georgia
 =======
 
 * Atlanta
+* Savannah Historic District
 
 Hawaii
 ======
@@ -133,7 +134,10 @@ Minnesota
 Mississipi
 ==========
 
-???
+* Ocean Springs / Gulf Coast
+* Delta Region / Blues Trail
+* Oxford
+* Natchez
 
 Missouri
 ========
